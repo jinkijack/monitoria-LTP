@@ -1,0 +1,10 @@
+C:\Users\tiago\source\repos\IMC\IMC\bin\Debug\IMC.exe.config
+C:\Users\tiago\source\repos\IMC\IMC\bin\Debug\IMC.exe
+C:\Users\tiago\source\repos\IMC\IMC\bin\Debug\IMC.pdb
+C:\Users\tiago\source\repos\IMC\IMC\obj\Debug\IMC.csprojAssemblyReference.cache
+C:\Users\tiago\source\repos\IMC\IMC\obj\Debug\IMC.Form1.resources
+C:\Users\tiago\source\repos\IMC\IMC\obj\Debug\IMC.Properties.Resources.resources
+C:\Users\tiago\source\repos\IMC\IMC\obj\Debug\IMC.csproj.GenerateResource.cache
+C:\Users\tiago\source\repos\IMC\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+C:\Users\tiago\source\repos\IMC\IMC\obj\Debug\IMC.exe
+C:\Users\tiago\source\repos\IMC\IMC\obj\Debug\IMC.pdb

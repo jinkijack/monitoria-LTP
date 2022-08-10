@@ -1,0 +1,10 @@
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\AreaCirculo\AreaCirculo\bin\Debug\AreaCirculo.exe.config
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\AreaCirculo\AreaCirculo\bin\Debug\AreaCirculo.exe
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\AreaCirculo\AreaCirculo\bin\Debug\AreaCirculo.pdb
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\AreaCirculo\AreaCirculo\obj\Debug\AreaCirculo.csprojAssemblyReference.cache
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\AreaCirculo\AreaCirculo\obj\Debug\AreaCirculo.Form1.resources
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\AreaCirculo\AreaCirculo\obj\Debug\AreaCirculo.Properties.Resources.resources
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\AreaCirculo\AreaCirculo\obj\Debug\AreaCirculo.csproj.GenerateResource.cache
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\AreaCirculo\AreaCirculo\obj\Debug\AreaCirculo.csproj.CoreCompileInputs.cache
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\AreaCirculo\AreaCirculo\obj\Debug\AreaCirculo.exe
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\AreaCirculo\AreaCirculo\obj\Debug\AreaCirculo.pdb
